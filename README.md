@@ -1,4 +1,4 @@
-# HW-5 Solutions
+# HW-3 Solutions
 
 ##
 This solution was implemented by Stefon Miller. This solution shows only one way of doing the project and doesn't dictate the various ways to complete it.
